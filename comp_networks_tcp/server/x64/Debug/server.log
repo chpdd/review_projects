@@ -1,4 +1,0 @@
-﻿  server.cpp
-C:\Users\Denis\ProjectsVisualStudio\comp_networks\comp_networks_tcp\server\server.cpp(87,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Denis\ProjectsVisualStudio\comp_networks\comp_networks_tcp\server\server.cpp(105,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  server.vcxproj -> C:\Users\Denis\ProjectsVisualStudio\comp_networks\comp_networks_tcp\server\x64\Debug\server.exe
