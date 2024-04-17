@@ -1,1 +1,0 @@
-C:\Users\Denis\ProjectsVisualStudio\comp_networks\comp_networks_tcp\client\x64\Debug\client.exe

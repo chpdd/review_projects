@@ -1,4 +1,0 @@
-﻿  client.cpp
-C:\Users\Denis\ProjectsVisualStudio\comp_networks\comp_networks_tcp\client\client.cpp(88,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Denis\ProjectsVisualStudio\comp_networks\comp_networks_tcp\client\client.cpp(42): warning C4715: resultHandler: значение возвращается не при всех путях выполнения
-  client.vcxproj -> C:\Users\Denis\ProjectsVisualStudio\comp_networks\comp_networks_tcp\client\x64\Debug\client.exe
