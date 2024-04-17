@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\Denis\ProjectsVisualStudio\comp_networks\UDP\server\server.cpp(90,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Denis\ProjectsVisualStudio\comp_networks\UDP\server\server.cpp(110,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  server.vcxproj -> C:\Users\Denis\ProjectsVisualStudio\comp_networks\UDP\server\x64\Debug\server.exe
